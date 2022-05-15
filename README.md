@@ -25,8 +25,8 @@
 <div>
   <h3>Principais projetos</h3>
   <a href="https://github.com/BrunadeMoura">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW_together&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=nlw3&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW-return&theme=radical" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=Certificados&theme=radical" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW_together&theme=radical&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=nlw3&theme=radical&hide_border=true" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=NLW-return&theme=radical&hide_border=true" />
+    <img height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunadeMoura&repo=Certificados&theme=radical&hide_border=true" />
 </div>
